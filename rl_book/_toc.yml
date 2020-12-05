@@ -1,0 +1,36 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+
+- file: content/intro
+
+
+- part: I  Introduction
+  sections:
+    - file: content/p1/markdown
+
+
+- part: II  Multi-armed Bandit
+  chapters:
+  - file: content/p2/c1/ucb
+  - file: content/p2/c2/ts
+
+
+- part: III  Contextual Multi-armed Bandit
+  sections:
+    - file: content/p3/markdown
+
+
+- part: IV  Tabular RL Methods
+  sections:
+    - file: content/p4/markdown
+
+
+- part: V  Deep RL Methods
+  sections:
+    - file: content/p5/markdown
+
+
+- part: VI  Applications and Use Cases
+  sections:
+    - file: content/p6/markdown
